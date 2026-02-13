@@ -1,4 +1,8 @@
 site_name: Сайт-портфолио занятия 13 февраля 2026 (пятница-13)
+
 nav:
     - Home: index.md
     - About: about.md
+
+theme:
+    name: dracula
